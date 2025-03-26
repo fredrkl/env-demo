@@ -1,4 +1,4 @@
-# Env Demo
+# Env(rc) Demo
 
 I strive to use connection strings and secrets as sparingly as possible. Instead, I lean towards identity and access management technologies like federated identity and Azure Management Identity for example. Additionally, technologies like Azure App Configuration, can alleviate tedious repetitive configuration and secret management. However, there are times when I need to use a connection string or secret. Especially when setting up a local development environment. This is a demo of how to use a .env files and how to store them. Please use this as a last resort.
 
